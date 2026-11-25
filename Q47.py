@@ -1,0 +1,6 @@
+lst = list((1, 2, 3))
+t = tuple([1, 2, 3])
+d = dict(name="Sagar", roll=101)
+print(lst)
+print(t)
+print(d)
